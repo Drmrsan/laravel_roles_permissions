@@ -75,7 +75,7 @@
 
         <div class="container-fluid">
             <div class="row">
-                <div class="col-sm-3 sidebar">
+                <div class="col-sm-2 sidebar">
                     @include('partials.nav.manage')
                 </div>
                 <div class="col-sm-9">
